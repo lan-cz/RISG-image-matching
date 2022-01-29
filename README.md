@@ -1,2 +1,4 @@
-# RISG-image-matching
-A rotation invariant SuperGlue algorithm.
+# RISG: A rotation invariant SuperGlue algorithm.
+
+
+Source code coming soon...
