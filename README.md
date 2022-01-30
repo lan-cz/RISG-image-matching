@@ -2,10 +2,16 @@
 
 Some results are here：
 
-![Optical-optical images](./result/result1.gif)
+![Optical-optical images](./result/1.gif)
 
-![Sar-optical images](./result/result2.gif)
+![ir-optical images](./result/2.gif)
 
-![Optical-night light images](./result/result2.gif)
+![sar-optical images](./result/3.gif)
+
+![optical- night light images](./result/4.gif)
+
+![map - optical images](./result/5.gif)
+
+![optical -lidar depth images](./result/6.gif)
 
 ## Source code coming soon...
