@@ -1,6 +1,6 @@
 # RISG: A rotation invariant SuperGlue algorithm.
 
-Some results are here：
+Some results are below： [also here](https://gitee.com/ssacn/RISG-image-matching)
 
 ![Optical-optical images](./result/1.gif)
 
