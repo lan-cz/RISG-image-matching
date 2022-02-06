@@ -15,7 +15,7 @@ Some results are below： [also here, https://gitee.com/ssacn/RISG-image-matchin
 ## 光学图像和夜光图像，optical- night light
 ![optical- night light images](https://s3.bmp.ovh/imgs/2022/02/07de5b0bdde92881.gif)
 
-## 地图夜光图像，map - optical
+## 地图与光学图像，map - optical
 ![map - optical images](https://s3.bmp.ovh/imgs/2022/02/dc277d711915ae80.gif)
 
 ## 光学图像与激光雷达深度图，optical -lidar depth
