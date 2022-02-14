@@ -1,0 +1,11 @@
+detector:
+  nms_radius:                   4
+  keypoint_threshold:           0.01
+  max_keypoints:                -1
+  remove_borders:               4
+  cuda: 1
+
+matcher:
+  sinkhorn_iterations: 120
+  match_threshold: 0.5
+  cuda: 1
