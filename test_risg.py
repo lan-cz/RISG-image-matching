@@ -186,12 +186,10 @@ if __name__ == '__main__':
 
             plt.cla()
             ax = initial(ax)
-            ax.plot(obsX, obsY,'-r')  #散点图,marker='*'
-            ax.plot(obsX, obsYsg,'--g')  #散点图,marker='o'
+            ax.plot(obsX, obsY,'-r')
+            ax.plot(obsX, obsYsg,'--g') 
 
             plt.legend(labels=['RISG','SuperGlue'], loc='best')
-
-            # 下面的图,两船的距离
             plt.pause(0.001)
 
             rotate_angel = rotate_angel + step
