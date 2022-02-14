@@ -14,8 +14,6 @@ def frame2tensor(frame, device):
     return torch.from_numpy(frame / 255.).float()[None, None].to(device)
 
 ####  SUPERGLUE  #### #############################################################################
-
-
 def MLP(channels: list, do_bn=True):
     """ Multi-layer perceptron """
     n = len(channels)
