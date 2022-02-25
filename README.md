@@ -65,4 +65,3 @@ python3 test_risg.py
 
 ```
 
-## RISG source code is coming soon...
